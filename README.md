@@ -12,7 +12,6 @@
 
 <p align="left">✨ I am a Frontend developer and UI designer<br>🤓 I love crafting beautiful and functional web applications. <br>🧑🏻‍🤝‍🧑🏾 I am eager to collaborate on frontend projects and continuously seek opportunities to enhance my skills and broaden my expertise.<br>📫 Feel free to contact me via LinkedIn if you want to connect or discuss any opportunities.</p>
 
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sanjana-kemparaj-91a118185/" target="_blank">
