@@ -1,30 +1,20 @@
-<h1 align="left">Hey!</h1>
-
-###
-
-<p align="left">👋 Hi, I’m @sanjana-kemparaj</p>
-
-###
-
-<h2 align="left">👩‍💻 About me</h2>
-
-###
-<div style="font-family: 'Courier New', Courier, monospace; >
-  <p align="left" style="display: flex; align-items: center; gap: 8px;">
-    ✨ I am a Frontend developer and UI designer<br>
+<img src="prof.png" align="center" width=300px height=300px>
+<h4 align="left">ABOUT ME</h4>
+<p align="left" style="display: flex; align-items: center; gap: 8px;">
+  ✨ I am a Frontend developer and UI designer<br>
     🤓 I love crafting beautiful and functional web applications. <br>
     🧑🏻‍🤝‍🧑🏾 I am eager to collaborate on frontend projects and continuously seek opportunities to enhance my skills and broaden my expertise.<br>
     📫 Feel free to contact me via LinkedIn if you want to connect or discuss any opportunities.
-    <a href="https://www.linkedin.com/in/sanjana-kemparaj-91a118185/" target="_blank">
+<a href="https://www.linkedin.com/in/sanjana-kemparaj-91a118185/" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
     </a>
   </p>
-</div>
 
 
 
 
-<h2 align="left">🚀 SKILLS</h2>
+
+<h4 align="left">🚀 SKILLS</h4>
 
 ###
 
