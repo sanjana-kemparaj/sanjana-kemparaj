@@ -9,16 +9,20 @@
 <h2 align="left">👩‍💻 About me</h2>
 
 ###
-
-<p align="left">✨ I am a Frontend developer and UI designer<br>🤓 I love crafting beautiful and functional web applications. <br>🧑🏻‍🤝‍🧑🏾 I am eager to collaborate on frontend projects and continuously seek opportunities to enhance my skills and broaden my expertise.<br>📫 Feel free to contact me via LinkedIn if you want to connect or discuss any opportunities.</p>
-
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sanjana-kemparaj-91a118185/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+<div style="font-family: 'Courier New', Courier, monospace; >
+  <p align="left" style="display: flex; align-items: center; gap: 8px;">
+    ✨ I am a Frontend developer and UI designer<br>
+    🤓 I love crafting beautiful and functional web applications. <br>
+    🧑🏻‍🤝‍🧑🏾 I am eager to collaborate on frontend projects and continuously seek opportunities to enhance my skills and broaden my expertise.<br>
+    📫 Feel free to contact me via LinkedIn if you want to connect or discuss any opportunities.
+    <a href="https://www.linkedin.com/in/sanjana-kemparaj-91a118185/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    </a>
+  </p>
 </div>
-###
+
+
+
 
 <h2 align="left">🚀 SKILLS</h2>
 
